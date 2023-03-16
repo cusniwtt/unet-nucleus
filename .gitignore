@@ -3,9 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+dataset/**
+AP123_2_0_4_29.png
+weights/**
 # C extensions
 *.so
 
+.DS_Store
 # Distribution / packaging
 .Python
 build/
