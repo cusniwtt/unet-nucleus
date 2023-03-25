@@ -11,7 +11,7 @@ weights/**
 
 .DS_Store
 logs/olds/**
-output/**
+
 # Distribution / packaging
 .Python
 build/
